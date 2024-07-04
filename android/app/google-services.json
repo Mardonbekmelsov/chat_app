@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "856809884613",
+    "project_id": "students-b6fab",
+    "storage_bucket": "students-b6fab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856809884613:android:f1595bf8a8002a4f47d9ac",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANADDVzL9ppOC_0CxDzpNrRafacZL2S5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856809884613:android:549b5f55903d178547d9ac",
+        "android_client_info": {
+          "package_name": "com.example.students"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANADDVzL9ppOC_0CxDzpNrRafacZL2S5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
